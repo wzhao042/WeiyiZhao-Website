@@ -1,6 +1,9 @@
+# Weiyi's Personal Website
 
-# Welcome to LearnCS8 Resume Website
+Hello world! My name is Weiyi Zhao, I am from Hongkong. I am currently a student in UCR. This is my first personal website, I really enjoyed making this website.
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+# Website Link
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+
+# Website Screenshot
+![Description of Image](img/WeiyiZhao.JPG) 
